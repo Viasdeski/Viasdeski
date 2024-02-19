@@ -13,7 +13,7 @@ Olá! Sou apaixonado por resolver problemas, sejam eles complexos ou não, atrav
 <div>
   <a href="https://github.com/Viasdeski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viasdeski&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viasdeski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Viasdeski&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 </div>
   
 
