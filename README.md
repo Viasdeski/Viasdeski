@@ -5,9 +5,9 @@
 
 ## Sobre mim
 
-Olá! Sou apaixonado por resolver problemas complexos, ou não, através da tecnologia. Interesso-me profundamente por entender como o mundo ao meu redor funciona. Estou sempre comprometido em cumprir prazos e desenvolver soluções que tornem o futuro mais simples e acessível a todos.
+Olá! Sou apaixonado por resolver problemas, sejam eles complexos ou não, através da tecnologia. Interesso-me profundamente por entender como o mundo ao meu redor funciona e como chegamos até aqui. Estou sempre comprometido em aprender novas tecnologias visando me manter atualizado, em busca de desenvolver soluções que tornem o futuro mais simples e acessível a todos.
 
-- 🔭 Atualmente estou trabalhando em projetos pessoais e aprimorando minhas habilidades em busca do meu primeiro emprego com foco em desenvolvimento ou afins.
+- 🔭 Atualmente trabalho como Analista de T.I em uma rede de supermercados, porém estou trabalhando em projetos pessoais e aprimorando minhas habilidades em busca do meu primeiro emprego com foco em desenvolvimento ou ciência de dados.
 - 🌱 Estou constantemente aprendendo e explorando novas tecnologias.
 - 💬 Pergunte-me sobre Desenvolvimento Web, Desenvolvimento Back-End, Engenharia de Software, Ciência de Dados e Inteligência Artificial.
 - 📫 Como me contatar: www.linkedin.com/in/vitorviasdeskimonteiro
