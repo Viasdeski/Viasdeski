@@ -10,6 +10,12 @@ Olá! Sou apaixonado por resolver problemas, sejam eles complexos ou não, atrav
 - 💬 Pergunte-me sobre Desenvolvimento Web, Desenvolvimento Back-End, Engenharia de Software, Ciência de Dados e Inteligência Artificial.
 - 📫 Como me contatar: www.linkedin.com/in/vitorviasdeskimonteiro
 
+<div>
+  <a href="https://github.com/Viadeski">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viasdeski&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viasdeski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
 
 ## Habilidades
 
@@ -26,8 +32,6 @@ Olá! Sou apaixonado por resolver problemas, sejam eles complexos ou não, atrav
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Viasdeski&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ### Áreas de Interesse
 ![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento%20Web--yellowgreen?style=flat)
 ![Desenvolvimento Back-End](https://img.shields.io/badge/Desenvolvimento%20BackEnd--brightgreen?style=flat)
@@ -36,5 +40,4 @@ Olá! Sou apaixonado por resolver problemas, sejam eles complexos ou não, atrav
 ![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial--red?style=flat)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viasdeski&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
