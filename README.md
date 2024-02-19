@@ -7,7 +7,7 @@ Olá! Sou apaixonado por resolver problemas, sejam eles complexos ou não, atrav
 
 - 🔭 Atualmente trabalho como Analista de T.I em uma rede de supermercados, porém estou trabalhando em projetos pessoais e aprimorando minhas habilidades em busca do meu primeiro emprego com foco em desenvolvimento ou ciência de dados.
 - 🌱 Estou constantemente aprendendo e explorando novas tecnologias.
-- 💬 Pergunte-me sobre Desenvolvimento Web, Desenvolvimento Back-End, Engenharia de Software, Ciência de Dados e Inteligência Artificial.
+- 👀 Tenho interesse em Desenvolvimento Web, Desenvolvimento Back-End, Engenharia de Software, Ciência de Dados e Inteligência Artificial.
 - 📫 Como me contatar: www.linkedin.com/in/vitorviasdeskimonteiro
 
 <div>
