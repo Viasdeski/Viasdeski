@@ -10,7 +10,7 @@ Olá! Sou apaixonado por resolver problemas, sejam eles complexos ou não, atrav
 - 💬 Pergunte-me sobre Desenvolvimento Web, Desenvolvimento Back-End, Engenharia de Software, Ciência de Dados e Inteligência Artificial.
 - 📫 Como me contatar: www.linkedin.com/in/vitorviasdeskimonteiro
 
-<div style="display: flex;">
+<div>
   <a href="https://github.com/Viasdeski" style="flex: 1;>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viasdeski&layout=compact&langs_count=7&theme=dracula"/>
   </a>
