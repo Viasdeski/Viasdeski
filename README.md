@@ -11,10 +11,10 @@ Olá! Sou apaixonado por resolver problemas, sejam eles complexos ou não, atrav
 - 📫 Como me contatar: www.linkedin.com/in/vitorviasdeskimonteiro
 
 <div>
-  <a href="https://github.com/Viasdeski" style="flex: 1;>
+  <a href="https://github.com/Viasdeski";>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viasdeski&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-  <a href="https://github.com/Viasdeski" style="flex: 1;>
+  <a href="https://github.com/Viasdeski">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viasdeski&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
   </a> 
 </div>
