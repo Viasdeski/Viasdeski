@@ -1,6 +1,6 @@
 # Vítor Viasdeski Monteiro
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/vitorviasdeskimonteiro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]("www.linkedin.com/in/vitorviasdeskimonteiro")
 
 ## Sobre mim
 
