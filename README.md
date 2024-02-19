@@ -41,7 +41,7 @@ Olá! Sou apaixonado por resolver problemas, sejam eles complexos ou não, atrav
 ![Engenharia de Software](https://img.shields.io/badge/Engenharia%20de%20Software--blueviolet?style=flat)
 ![Ciência de Dados](https://img.shields.io/badge/Ci%C3%AAncia%20de%20Dados--blue?style=flat)
 ![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial--red?style=flat)
-![Segurança da Informação](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial--black?style=flat)
+![Segurança da Informação](https://img.shields.io/badge/Seguranca%20da%20Informação--black?style=flat)
 
 
 
